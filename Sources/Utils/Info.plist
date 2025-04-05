@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>NSCameraUsageDescription</key>
+    <string>JibTracker needs camera access to record and track snowboarders.</string>
+    <key>NSMicrophoneUsageDescription</key>
+    <string>JibTracker needs microphone access to record audio with your videos.</string>
+    <key>NSPhotoLibraryUsageDescription</key>
+    <string>JibTracker needs photo library access to save your recorded videos.</string>
+    <key>NSPhotoLibraryAddUsageDescription</key>
+    <string>JibTracker needs photo library access to save your recorded videos.</string>
+</dict>
+</plist> 
